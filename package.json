@@ -1,0 +1,29 @@
+{
+  "name": "paryavaran-setu",
+  "version": "1.0.0",
+  "description": "This is a college hackathon project based on waste management",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohitpatankar24/Paryavaran-Setu.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohitpatankar24/Paryavaran-Setu/issues"
+  },
+  "homepage": "https://github.com/rohitpatankar24/Paryavaran-Setu#readme",
+  "dependencies": {
+    "cloudinary": "^2.5.1",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "mongoose": "^8.11.0",
+    "multer": "^1.4.5-lts.1"
+  }
+}
